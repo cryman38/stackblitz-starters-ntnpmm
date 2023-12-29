@@ -36,8 +36,8 @@ function Article({ title, body }) {
 export default function App() {
   const topics = [
     { id: 1, title: 'html', body: 'html is ...' },
-    { id: 1, title: 'CSS', body: 'CSS is ...' },
-    { id: 1, title: 'js', body: 'js is ...' },
+    { id: 2, title: 'CSS', body: 'CSS is ...' },
+    { id: 3, title: 'js', body: 'js is ...' },
   ];
   return (
     <div>
